@@ -1,6 +1,10 @@
 @media screen and (max-width:768px){
 
   /* Headings */
+  body{
+    width:600px;
+    margin:20px;
+  }
   h4{
     color: #333333;
     font-size: 1.5rem;
@@ -57,7 +61,6 @@
 }
 
 /* Desktop*/
-
 body{
     margin: 50px 75px 50px 75px;
   }
